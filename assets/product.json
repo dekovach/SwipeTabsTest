@@ -1,0 +1,33 @@
+{
+"success":true,
+"messages":{"success":["SEARCH_QUERY_SUCCESS"]},
+"session":{"id":"r38sa9ng52kuoo7d2b364g0s74","expire":null,"YII_CSRF_TOKEN":"1e7d0a0d78254fe58a3a31328aa7857de85897d8"},
+"metadata":{"product_count":"3872",
+"results":
+[
+{"id":"AP091EL94AAFZAME",
+"md5":"7d04c760679e6b3e94dc2d4d0c686446",
+"data":{"config_id":"5",
+	"sku": "AP091EL94AAFZAME",
+	"name":"iPad 2 - Black",
+	"url":"http://westwing.de",
+	"description":"Two cameras for FaceTime and HD video recording. The dual-core A5 chip. 10-hour battery life. Over 200 new software features in iOS 5. And iCloud. All in a remarkably thin, light design. There\u2019s so much to iPad, it\u2019s amazing there\u2019s so little of it. Technology so advanced,you\u2019ll forget it\u2019s even there.When you pick up iPad, it becomes an extension of you. ",
+	"brand":"Apple","max_price":"2999.00","price":"1699.00"},
+"images":[{"path":"http://static.westwing.de/c/woll1-2534-2081-m.jpg","format":"image/jpeg","width":"64","height":"64"},
+  {"path":"http://static.westwing.de/c/ritzenhoff-breker1-9364-8081-m.jpg","format":"image/jpeg","width":"64","height":"64"}]
+  
+  },
+  
+{"id":"AP091EL64ABJZAME","md5":"36c7f8f5d593bb5dff2adec3566f6dff","data":{"config_id":"35","sku":"AP091EL64ABJZAME","name":"iPad 2 - White",
+"url":"http://westwing.de","description":"\r\rTwo cameras for FaceTime and HD video recording.The dual-core A5 chip. 10-hour battery life. Over 200 new software features in iOS 5. And iCloud. All in a remarkably thin, light design. There\u2019s so much to iPad, it\u2019s amazing there\u2019s so little of it.",
+"brand":"Apple","max_price":"2999.00","price":"1699.00"},
+"images":
+[{"path":"http://static.westwing.de/c/morgenstunde-ohne-muehen-8573-5081-m.jpg","format":"image/jpeg","width":"64","height":"64"},
+{"path":"http://static.westwing.de/c/treue-haushaltshilfen-2534-4081-m.jpg","format":"image/jpeg","width":"64","height":"64"}]
+
+}
+
+
+]
+}
+}

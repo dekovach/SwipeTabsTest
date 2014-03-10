@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_facebook_picker_search_bar_background">#fff5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#ffbcbdc2</color>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#ffffffff</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#ff000000</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#ffa6aed7</color>
+    <color name="com_facebook_loginview_text_color">#ffffffff</color>
+    <color name="abc_search_url_text_normal">#ff7fa87f</color>
+    <item type="color" name="abc_search_url_text_selected">@*android:color/black</item>
+    <item type="color" name="abc_search_url_text_pressed">@*android:color/black</item>
+    <color name="swipetabs_green">#ff5aa490</color>
+    <color name="swipetabs_red">#ffce0032</color>
+    <color name="swipetabs_grey_very_dark">#ff82806f</color>
+    <color name="swipetabs_grey_dark">#ff9e9d90</color>
+    <color name="swipetabs_grey_medium">#ffa0a08d</color>
+    <color name="swipetabs_grey_light">#ffc0beb1</color>
+    <color name="swipetabs_grey_very_light">#ffc9c7b6</color>
+    <color name="android_highlight_default">#ffffbb33</color>
+</resources>
